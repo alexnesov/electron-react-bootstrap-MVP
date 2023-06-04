@@ -1,0 +1,24 @@
+@import "./Assets/colors.css";
+
+.clickable {
+  cursor: pointer;
+}
+.icon-row {
+  width: 2em;
+}
+.icon-folder {
+  width: 1em;
+}
+.icon-file {
+  width: 0.75em;
+}
+
+body, html {
+  margin: 1%;
+  padding: 0;
+  height: 100%;
+  font-family: sans-serif; 
+  background: var(--background-color); 
+  color: var(--text-color); 
+  scroll-behavior: smooth;
+}

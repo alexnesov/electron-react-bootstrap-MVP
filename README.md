@@ -1,1 +1,2 @@
-# electron-react-bootstrap-MVP
+```yarn electron:serve```
+
